@@ -1,4 +1,4 @@
-WordTwit Tweet Failed
+JW Envato
 ==================
 
 For information related to this plugin check [Plugish.com](http://plugish.com/plugins/jw_envato "View plugin on Plugish.com")
