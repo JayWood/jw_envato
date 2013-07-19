@@ -1,0 +1,23 @@
+#Dreamweaver .TMP files
+*.TMP
+*.tmp
+
+# Log Files
+*_log
+*.log
+
+# Backup files
+*.bak
+*.lwbak
+
+# Cache
+cache
+cache_off
+cache_disabled
+backups
+_notes
+.ftpquota
+
+# OS Files
+.DS_Store
+.DS_Store?

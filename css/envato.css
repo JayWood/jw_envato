@@ -1,0 +1,5 @@
+/* CSS Document */
+widget.widget_envato_popular{overflow:hidden;text-align:center;}
+div.envato_item img{width:80px; height:80px;}
+div.envato_item a{display:block; padding:0; margin:0;}
+div.envato_item{float:left; margin: 3px;}
