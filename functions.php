@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name:		JW Envato
-Plugin URI:			http://plugish.com/plugins/jw_envato
-Description:		A plugin to link referrals from your website to the Envato Marketplace of your choice.
-Author:				Jerry Wood
-Author URI:			http://plugish.com
-Version:			1.0
+Plugin Name: JW Envato
+Plugin URI: http://plugish.com/plugins/jw_envato
+Description: A plugin to link referrals from your website to the Envato Marketplace of your choice.
+Author: Jerry Wood
+Author URI: http://plugish.com
+Version: 1.0
 */
 include_once 'class/envato.class.php';
 include_once 'class/widgets.class.php';
