@@ -1,5 +1,10 @@
 /* Set center for widgets only */
 .widget.widget_envato_popular{ overflow:hidden }
 
-div.envato_item{ margin: 0.25em }
-div.envato_item img{ width:80px; height:80px; }
+.envato_item_wrapper{ text-align: center }
+.envato_item{ margin: 0.25em; display: inline-block; }
+
+/*
+TODO: Allow this to be added in widget
+ */
+.envato_item img{ width:80px; height:80px; }
